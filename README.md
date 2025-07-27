@@ -6,7 +6,7 @@
 
 #
 
-<p align="left">Tenho 22 anos e sou formado em Sistemas de Informação pela FIAP. Atuo como Desenvolvedor Back-end Pleno na Getnet, uma empresa da PagoNxt e a minha paixão é o aprendizado constante e a procura em ampliar os meus conhecimentos sobre o mundo tecnológico, sempre aberto a compreender as inovações e mudanças do novo século.
+<p align="left">Tenho 23 anos e sou formado em Sistemas de Informação pela FIAP. Atuo como Desenvolvedor Back-end Pleno na Getnet, uma empresa da PagoNxt e a minha paixão é o aprendizado constante e a procura em ampliar os meus conhecimentos sobre o mundo tecnológico, sempre aberto a compreender as inovações e mudanças do novo século.
 
 Possuo experiência sólida em Java, Spring Boot, OpenShift, Kubernetes, APIs REST, metodologias ágeis (Scrum e Kanban), testes com JUnit e Mockito, e bancos de dados Oracle, FaunaDB, MongoDB entre outros...
   
