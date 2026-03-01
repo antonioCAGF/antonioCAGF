@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1200&color=FFD43B&center=true&vCenter=true&width=900&lines=Antonio+Guimarães;@nerdprogramatico;Founder+%E2%80%A2+Co-CEO+%40+LiveBoostTV;Mid-level+Java+Platform+Engineer;Tech+%E2%80%A2+Growth+%E2%80%A2+Execution+%E2%80%A2+Business"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1200&color=FFD43B&center=true&vCenter=true&width=900&lines=Antonio+Guimarães;@nerdprogramatico;Founder+%E2%80%A2+Co-CEO+%40+LiveBoostTV;Senior+Java+Platform+Engineer;Tech+%E2%80%A2+Growth+%E2%80%A2+Execution+%E2%80%A2+Business"
   alt="Typing SVG"
 />
 
