@@ -23,7 +23,7 @@
 
 Yes, this is a really long profile. TL;DR: I build production-ready Java back-end systems that are reliable, observable, and easy to operate.
 
-I'm a Java back-end engineer (with experience from legacy Java 6+ to modern Java 17/21) who builds with an owner's mindset. I move comfortably between critical production environments and continuous evolution: stabilizing systems, mitigating risk, improving performance, and modernizing safely without disrupting operations.
+I'm a Java back-end engineer (with experience from legacy Java 6+ to modern Java 8/11/17/21) who builds with an owner's mindset. I move comfortably between critical production environments and continuous evolution: stabilizing systems, mitigating risk, improving performance, and modernizing safely without disrupting operations.
 
 While my primary focus is back-end, I work with a full-cycle mindset and hands-on experience in cloud, containers, and DevOps. I’ve also shipped front-end when needed to deliver end-to-end solutions. I have a strong foundation in logical and computational thinking, problem structuring, domain modeling, and impact-driven technical decision-making (cost, risk, performance, and maintainability).
 
